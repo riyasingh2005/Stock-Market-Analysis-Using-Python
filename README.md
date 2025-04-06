@@ -5,7 +5,7 @@ This project involves analyzing historical stock market data, extracting key ins
 ## **Project Objective**
 
 The objective of this project is to:
-•	Perform exploratory data analysis (EDA) on stock market data. \n
+•	Perform exploratory data analysis (EDA) on stock market data.<br>
 •	Identify trends, volatility, and price patterns over time.
 •	Visualize key metrics such as daily returns, moving averages, and volatility.
 •	Use machine learning models (e.g., ARIMA, LSTM, Prophet) to forecast stock prices.
