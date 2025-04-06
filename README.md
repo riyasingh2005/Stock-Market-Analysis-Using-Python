@@ -2,7 +2,7 @@
 
 This project involves analyzing historical stock market data, extracting key insights using visualization tools, and predicting future trends using machine learning techniques.
 
-Project Objective
+**Project Objective**
 
 The objective of this project is to:
 •	Perform exploratory data analysis (EDA) on stock market data.
@@ -44,6 +44,7 @@ Step 4: Predictive Modeling
 •	Model evaluation: RMSE, MAPE, and accuracy scores
 
 Insights & Observations
+
 •	Stock price trends show cyclic behavior with seasonal highs and lows.
 •	Moving Averages (SMA, EMA) help in identifying trends and support/resistance levels.
 •	High volatility observed during earnings announcements and macroeconomic events.
@@ -51,6 +52,7 @@ Insights & Observations
 •	Machine learning models predict trends well, but long-term forecasts require more data.
 
 Final Conclusions
+
 •	Stock prices are influenced by macroeconomic factors, earnings reports, and investor sentiment.
 •	Moving averages and Bollinger Bands help in decision-making for trading.
 •	Predicting short-term trends is feasible, but long-term predictions are uncertain due to market randomness.
