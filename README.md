@@ -4,14 +4,14 @@ This project involves analyzing historical stock market data, extracting key ins
 
 ## **Project Objective**
 
-The objective of this project is to:
+The objective of this project is to:<br>
 •	Perform exploratory data analysis (EDA) on stock market data.<br>
-•	Identify trends, volatility, and price patterns over time.
-•	Visualize key metrics such as daily returns, moving averages, and volatility.
-•	Use machine learning models (e.g., ARIMA, LSTM, Prophet) to forecast stock prices.
-•	Build a dashboard to present insights and predictions interactively.
+•	Identify trends, volatility, and price patterns over time.<br>
+•	Visualize key metrics such as daily returns, moving averages, and volatility.<br>
+•	Use machine learning models (e.g., ARIMA, LSTM, Prophet) to forecast stock prices.<br>
+•	Build a dashboard to present insights and predictions interactively.<br>
 
-Research Questions
+## **Research Questions**
 
 1.	What are the historical trends in stock price movements?
 2.	How do moving averages (SMA, EMA) indicate potential buying/selling opportunities?
@@ -20,7 +20,7 @@ Research Questions
 5.	Can machine learning models predict future stock prices accurately?
 6.	How can a dashboard help visualize stock market trends and forecast performance?
 
-Data Collection & Process
+## **Data Collection & Process**
  
 Step 1: Data Collection
 Source: Yahoo Finance (yfinance library)
@@ -43,7 +43,7 @@ Step 4: Predictive Modeling
 •	Deep Learning Models: LSTM (Long Short-Term Memory), Facebook Prophet
 •	Model evaluation: RMSE, MAPE, and accuracy scores
 
-Insights & Observations
+## **Insights & Observations**
 
 •	Stock price trends show cyclic behavior with seasonal highs and lows.
 •	Moving Averages (SMA, EMA) help in identifying trends and support/resistance levels.
@@ -51,7 +51,7 @@ Insights & Observations
 •	Daily returns are normally distributed but contain outliers during market crashes.
 •	Machine learning models predict trends well, but long-term forecasts require more data.
 
-Final Conclusions
+## **Final Conclusions**
 
 •	Stock prices are influenced by macroeconomic factors, earnings reports, and investor sentiment.
 •	Moving averages and Bollinger Bands help in decision-making for trading.
