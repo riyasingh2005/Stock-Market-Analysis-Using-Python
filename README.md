@@ -3,6 +3,7 @@
 This project involves analyzing historical stock market data, extracting key insights using visualization tools, and predicting future trends using machine learning techniques.
 
 Project Objective
+
 The objective of this project is to:
 •	Perform exploratory data analysis (EDA) on stock market data.
 •	Identify trends, volatility, and price patterns over time.
@@ -11,6 +12,7 @@ The objective of this project is to:
 •	Build a dashboard to present insights and predictions interactively.
 
 Research Questions
+
 1.	What are the historical trends in stock price movements?
 2.	How do moving averages (SMA, EMA) indicate potential buying/selling opportunities?
 3.	What is the daily return distribution, and how volatile is the stock?
@@ -19,7 +21,8 @@ Research Questions
 6.	How can a dashboard help visualize stock market trends and forecast performance?
 
 Data Collection & Process
- Step 1: Data Collection
+ 
+Step 1: Data Collection
 Source: Yahoo Finance (yfinance library)
 Data Collected:
 Date, Open, High, Low, Close, Volume, Adjusted Close
