@@ -23,25 +23,24 @@ The objective of this project is to:<br>
 ## **Data Collection & Process**
  
 ### Step 1: Data Collection
-Source: Yahoo Finance (yfinance library)
-Data Collected:
-Date, Open, High, Low, Close, Volume, Adjusted Close
+Source: Yahoo Finance (yfinance library)<br>
+Data Collected: Date, Open, High, Low, Close, Volume, Adjusted Close<br>
 
 ### Step 2: Data Preprocessing
-•	Handling missing values
-•	Feature engineering (e.g., moving averages, daily returns)
-•	Data transformation (scaling, normalization)
+•	Handling missing values<br>
+•	Feature engineering (e.g., moving averages, daily returns)<br>
+•	Data transformation (scaling, normalization)<br>
 
 ### Step 3: Exploratory Data Analysis (EDA)
-•	Stock price trend visualization (line charts)
-•	Daily returns analysis (histograms)
-•	Moving average analysis (SMA, EMA)
-•	Volatility analysis (Bollinger Bands)
+•	Stock price trend visualization (line charts)<br>
+•	Daily returns analysis (histograms)<br>
+•	Moving average analysis (SMA, EMA)<br>
+•	Volatility analysis (Bollinger Bands)<br>
 
 ### Step 4: Predictive Modeling
-•	Traditional Models: ARIMA (AutoRegressive Integrated Moving Average)
-•	Deep Learning Models: LSTM (Long Short-Term Memory), Facebook Prophet
-•	Model evaluation: RMSE, MAPE, and accuracy scores
+•	Traditional Models: ARIMA (AutoRegressive Integrated Moving Average)<br>
+•	Deep Learning Models: LSTM (Long Short-Term Memory), Facebook Prophet<br>
+•	Model evaluation: RMSE, MAPE, and accuracy scores<br>
 
 ## **Insights & Observations**
 
